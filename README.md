@@ -1,5 +1,5 @@
 # MNIST-classification-ANN
-My own classification ANN written completely from scratch using Java. After training, it can achieve an accuracy of around 99% (correctly classify images of digits).
+My own classification ANN written completely from scratch using Java. After training, it can achieve an accuracy of around 98% (correctly classify images of digits).
 
 To run the training process yourself, unzip the MNIST dataset and run the java program.
 
